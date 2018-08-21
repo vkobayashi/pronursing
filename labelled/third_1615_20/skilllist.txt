@@ -1,0 +1,180 @@
+_1567_2_	Teamfähigkeit und Aufgeschlossenheit
+_1567_20_	Teamfähigkeit und Aufgeschlossenheit
+_1567_20_	Zielorientierung und eine selbständige Arbeitsweise
+_1567_23_	Fachliche und soziale Kompetenz
+_1567_23_	Verantwortungsbewusst Flexibilität und Zuverlässigkeit
+_1567_23_	Freude an der Betreuung von hilfebedürftigen Menschen
+_1567_24_	Kommunikationsstärke und Dienstleistungsorientierung
+_1567_24_	Ein offenes freundliches Auftreten
+_1567_25_	Kommunikationsstärke und Dienstleistungsorientierung
+_1567_25_	Ein offenes freundliches Auftreten
+_1567_27_	Kommunikationsstärke und Dienstleistungsorientierung
+_1567_27_	Ein offenes freundliches Auftreten
+_1567_30_	Kommunikationsstärke und Dienstleistungsorientierung
+_1567_30_	Ein offenes freundliches Auftreten
+_1567_33_	Kommunikationsstärke und Dienstleistungsorientierung
+_1567_33_	Ein offenes freundliches Auftreten
+_1567_35_	Eine aufgeschlossene kooperative Persönlichkeit Teamfähigkeit und Spaß daran Neues kennenzulernen und sich weiterzubilden
+_1567_37_	Kommunikationsstärke und Dienstleistungsorientierung
+_1567_37_	Ein offenes freundliches Auftreten
+_1567_39_	Aufgeschlossenheit und Teamfähigkeit
+_1567_41_	Teamfähigkeit und Aufgeschlossenheit
+_1567_42_	Kommunikationsstärke und Dienstleistungsorientierung
+_1567_42_	Ein offenes freundliches Auftreten
+_1567_43_	Kommunikationsstärke und Dienstleistungsorientierung
+_1567_43_	Ein offenes freundliches Auftreten
+_1567_44_	Aufgeschlossenheit und Teamfähigkeit
+_1567_45_	Aufgeschlossenheit und Teamfähigkeit
+_1567_47_	Empathie und Freude am Umgang mit den Patienten
+_1567_48_	Empathie und Freude am Umgang mit den Patienten
+_1567_49_	Aufgeschlossenheit und Teamfähigkeit
+_1567_8_	Fachliche und soziale Kompetenz
+_1567_8_	Verantwortungsbewusst Flexibilität und Zuverlässigkeit
+_1567_8_	Freude an der Betreuung von hilfebedürftigen Menschen
+_1567_8_	Schichtbereitschaft FD SD ND WE FT
+_1567_9_	Kommunikationsstärke und Dienstleistungsorientierung
+_1567_9_	Ein offenes freundliches Auftreten
+_1581_1_	Bereitschaft zum Schichtdienst
+_1581_1_	Führerschein und PKW wünschenswertPersönliche Stärken
+_1581_1_	Selbständiges Arbeiten
+_1581_1_	Teamfähigkeit
+_1581_1_	Zielstrebigkeit Ergebnisorientierung
+_1581_1_	Einfühlungsvermögen
+_1581_10_	Bereitschaft zum SchichtdienstPersönliche Stärken
+_1581_10_	Selbständiges Arbeiten
+_1581_10_	Teamfähigkeit
+_1581_10_	Zielstrebigkeit Ergebnisorientierung
+_1581_10_	Einfühlungsvermögen
+_1581_29_	Bereitschaft zum Schichtdienst Früh und Spät
+_1581_29_	Führerschein und Auto wünschenswert aufgrund der schlechten Bus und BahnverbindungPersönliche Stärken
+_1581_29_	Selbständiges Arbeiten
+_1581_29_	Teamfähigkeit
+_1581_29_	Zielstrebigkeit Ergebnisorientierung
+_1581_29_	Einfühlungsvermögen
+_1581_3_	Bereitschaft zum Schichtdienst
+_1581_3_	Führerschein und PKW wünschenswertPersönliche Stärken
+_1581_3_	Selbständiges Arbeiten
+_1581_3_	Teamfähigkeit
+_1581_3_	Zielstrebigkeit Ergebnisorientierung
+_1581_3_	Einfühlungsvermögen
+_1581_30_	Spaß an der Arbeit mit Kindern
+_1581_30_	Bereitschaft zum Schichtdienst
+_1581_30_	Führerschein und PKW wünschenswertPersönliche Stärken
+_1581_30_	Selbständiges Arbeiten
+_1581_30_	Teamfähigkeit
+_1581_30_	Zielstrebigkeit Ergebnisorientierung
+_1581_30_	Einfühlungsvermögen
+_1581_5_	Bereitschaft zum Schichtdienst
+_1581_5_	Führerschein und PKW wünschenswertPersönliche Stärken
+_1581_5_	Selbständiges Arbeiten
+_1581_5_	Teamfähigkeit
+_1581_5_	Zielstrebigkeit Ergebnisorientierung
+_1581_5_	Einfühlungsvermögen
+_1581_7_	Bereitschaft zum Schichtdienst
+_1581_7_	Führerschein und PKW wünschenswertPersönliche Stärken
+_1581_7_	Selbständiges Arbeiten
+_1581_7_	Teamfähigkeit
+_1581_7_	Zielstrebigkeit Ergebnisorientierung
+_1581_7_	Einfühlungsvermögen
+_1581_7_	Diese Stellenanzeige
+_1581_7_	Informationen zur Bewerbung
+_1581_7_	Bewerbungsadresse
+_1581_7_	Haben wir Ihr Interesse geweckt
+_1581_7_	Wir freuen uns auf Ihre schriftliche Bewerbung an
+_1581_7_	akut
+_1581_7_	Medizinische Personallogistik GmbH
+_1581_7_	Fritzenwiese 42
+_1581_7_	29221 Celle
+_1581_7_	Tel 05141 7093470
+_1581_7_	celle akut medizin.de
+_1581_7_	Wir möchten an dieser Stelle mit dem Gerücht aufräumen dass es den Bewerbungsprozess positiv beeinflusst wenn Sie uns vor Versand Ihrer Bewerbung angerufen haben
+_1581_7_	Wenn Sie jedoch offene Fragen haben können Sie uns gerne telefonisch kontaktieren
+_1581_7_	Referenznummer
+_1581_7_	Medi Jobs 1581 7
+_1581_7_	Damit Ihre Bewerbung einfacher zugeordnet werden kann beziehen Sie sich bei Ihrer Bewerbung unbedingt auf diese Referenznummer
+_1581_9_	Medi Jobs ID 1581 9URL http www.medi jobs.de 1581 9
+_1581_9_	Stand der Anzeige 21.01.2015
+_1581_9_	Stellenangebot Fachkräfte in der stationären Altenpflege gesucht
+_1581_9_	Altenpfleger in
+_1581_9_	Stellenbeschreibung
+_1581_9_	Unternehmensdaten
+_1581_9_	Jobbezeichnung
+_1581_9_	Fachkräfte in der stationären Altenpflege gesucht
+_1581_9_	Altenpfleger in
+_1581_9_	akut
+_1581_9_	Medizinische Personallogistik GmbH Celle
+_1581_9_	Fritzenwiese 42
+_1581_9_	29221 Celle
+_1581_9_	www.akut medizin.deEinsatzort 29308 Winsen Aller
+_1581_9_	Alle Stellenangebote dieses Unternehmens auf Medi Jobs
+_1581_9_	Jobart Arbeitszeit
+_1581_9_	Vollzeit oder Teilzeit
+_1581_9_	Gehalt
+_1581_9_	nach Tarifvertrag IGZ DGB
+_1581_9_	Mögl
+_1581_9_	Eintrittsdatum
+_1581_9_	ab sofort
+_1581_9_	Sie möchten sich beruflich verändern nach einer Berufspause wieder ein
+_1581_9_	steigen oder nach Beendigung Ihrer Berufsausbildung den Einstieg ins Arbeitsleben finden
+_1581_9_	Nutzen Sie unsere Kontakte und Erfahrungen und er
+_1581_9_	greifen Sie Ihre Chance den idealen Arbeitsplatz zu finden
+_1581_9_	Wir suchen Altenpfleger w m Gesundheits und Krankenpfleger w m
+_1581_9_	in Vollzeit Teilzeit oder auf geringfügiger Basis bei uns ist alles möglich
+_1581_9_	Eine Einstellung ist sowohl zum jetzigen als auch zu einem späteren Zeitpunkt möglich.Ihre Vorteile
+_1581_9_	Unbefristeter Arbeitsvertrag
+_1581_9_	Tarifliche Zuschläge Samstag Sonntag Feiertag und Nachtzuschlag
+_1581_9_	Urlaubs und Weihnachtsgeld
+_1581_9_	Langfristige oder sogar dauerhafte Vermittlung
+_1581_9_	Variable Arbeitszeitmodelle
+_1581_9_	Der richtige Einsatzort
+_1581_9_	Fahrgeld Umkreis Winsen Aller
+_1581_9_	Fort und Weiterbildungsmöglichkeiten
+_1581_9_	Kompetente und freundliche Beratung
+_1581_9_	Anforderungen an den Bewerber bzw. erforderliche Qualifikation
+_1581_9_	Ihr Profil
+_1581_9_	Bereitschaft zum Schichtdienst
+_1581_9_	Führerschein und PKW wünschenswert aufgrund der schlechten Bus und BahnverbindungPersönliche Stärken
+_1581_9_	Selbständiges Arbeiten
+_1581_9_	Teamfähigkeit
+_1581_9_	Zielstrebigkeit Ergebnisorientierung
+_1581_9_	Einfühlungsvermögen
+_1589_1_	Interesse an der patientenorientierten Bereichspflege
+_1589_1_	Bereitschaft zur Fortbildung
+_1589_1_	Engagement und Flexibilität
+_1589_1_	Belastbarkeit im Umgang mit beatmeten Patienten
+_1589_1_	Teamfähigkeit Verantwortungsbewusstsein fachliche Kommunikationsfähigkeit und eigenständiges Arbeiten
+_1603_1_	Du arbeitest gerne selbstständig und eigenverantwortlich
+_1603_1_	Flexibilität und Teamfähigkeit runden dein Profil ab
+_1603_1_	körperliche und seelische Stabilität
+_1603_1_	Ausgeglichenheit und Geduld
+_1603_1_	Fähigkeit Verantwortung wahrzunehmen
+_1603_1_	Initiative und Einsatzbereitschaft
+_1603_1_	Teamfähigkeit
+_1603_1_	Konfliktfähigkeit
+_1603_1_	Fähigkeit zur ständigen und umfassenden eigenen Fortbildung
+_1603_1_	eigene Kritikfähigkeit und Selbstreflexion
+_1603_1_	Einfühlungsvermögen
+_1603_1_	Urteilsvermögen
+_1603_1_	Verschwiegenheit und Vertrauenswürdigkeit
+_1609_1_	Pflegeplanung
+_1609_1_	Identifizierung mit den Grundsätzen
+_1609_1_	der Hospizidee
+_1609_1_	und den Leit linien des Unter
+_1609_1_	Bereitschaft zur Übernahme
+_1615_12_	soziale Kompetenz und Eigeninitiative
+_1615_12_	Zuverlässigkeit Flexibilität und Engagement
+_1615_12_	Dokumentationskenntnisse
+_1615_13_	soziale Kompetenz und Eigeninitiative
+_1615_13_	Zuverlässigkeit Flexibilität und Engagement
+_1615_13_	EDV Basiskenntnisse
+_1615_13_	Dokumentationskenntnisse
+_1615_16_	besitzen Sensibilität und Einfühlungsvermögen gegenüber den Bewohnern und deren Angehörigen
+_1615_16_	arbeiten gerne im Team
+_1615_16_	und können ebenso eigenständig arbeiten
+_1615_16_	verfügen über ein hohes Maß an Verantwortungsbewusstsein
+_1615_16_	sind zuverlässig
+_1615_19_	wünschenswert sind Erfahrungen in der Herz Thorax Transplantations und Gefäßchirurgie HTTG
+_1615_19_	Sie lieben Ihren Beruf 
+_1615_19_	Sie sind ein Teamplayer 
+_1615_19_	soziale Kompetenz und Eigeninitiative
+_1615_19_	Zuverlässigkeit und Flexibilität sind Ihre Stärken
